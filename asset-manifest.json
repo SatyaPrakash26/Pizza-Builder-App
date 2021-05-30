@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Pizza-Builder-App/static/css/main.87e49e07.chunk.css",
+    "main.js": "/Pizza-Builder-App/static/js/main.e0dfa4e3.chunk.js",
+    "main.js.map": "/Pizza-Builder-App/static/js/main.e0dfa4e3.chunk.js.map",
+    "runtime-main.js": "/Pizza-Builder-App/static/js/runtime-main.5a4c8133.js",
+    "runtime-main.js.map": "/Pizza-Builder-App/static/js/runtime-main.5a4c8133.js.map",
+    "static/js/2.f7f6760b.chunk.js": "/Pizza-Builder-App/static/js/2.f7f6760b.chunk.js",
+    "static/js/2.f7f6760b.chunk.js.map": "/Pizza-Builder-App/static/js/2.f7f6760b.chunk.js.map",
+    "index.html": "/Pizza-Builder-App/index.html",
+    "static/css/main.87e49e07.chunk.css.map": "/Pizza-Builder-App/static/css/main.87e49e07.chunk.css.map",
+    "static/js/2.f7f6760b.chunk.js.LICENSE.txt": "/Pizza-Builder-App/static/js/2.f7f6760b.chunk.js.LICENSE.txt",
+    "static/media/BaseCheese.2c5ba8bb.png": "/Pizza-Builder-App/static/media/BaseCheese.2c5ba8bb.png",
+    "static/media/Basil.5387fca4.png": "/Pizza-Builder-App/static/media/Basil.5387fca4.png",
+    "static/media/Mushroom.8bb1079b.png": "/Pizza-Builder-App/static/media/Mushroom.8bb1079b.png",
+    "static/media/Olive.0da28a3b.png": "/Pizza-Builder-App/static/media/Olive.0da28a3b.png",
+    "static/media/Pineapple.33c89c63.png": "/Pizza-Builder-App/static/media/Pineapple.33c89c63.png",
+    "static/media/PizzaBase.b01ddacc.png": "/Pizza-Builder-App/static/media/PizzaBase.b01ddacc.png",
+    "static/media/PizzaMan.c91aed81.png": "/Pizza-Builder-App/static/media/PizzaMan.c91aed81.png",
+    "static/media/Tomato.ed6f5243.png": "/Pizza-Builder-App/static/media/Tomato.ed6f5243.png",
+    "static/media/pizza logo.b6438c19.png": "/Pizza-Builder-App/static/media/pizza logo.b6438c19.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a4c8133.js",
+    "static/js/2.f7f6760b.chunk.js",
+    "static/css/main.87e49e07.chunk.css",
+    "static/js/main.e0dfa4e3.chunk.js"
+  ]
+}
